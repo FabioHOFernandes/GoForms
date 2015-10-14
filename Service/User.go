@@ -3,8 +3,8 @@
 package Service
 
 import (
-	"alexcesar.tk/Gorms/DAO"
-	"alexcesar.tk/Gorms/Domain"
+	"huijari.ml/Gorms/DAO"
+	"huijari.ml/Gorms/Domain"
 	"gopkg.in/mgo.v2/bson"
 	"time"
 )

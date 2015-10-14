@@ -3,7 +3,7 @@
 package Service
 
 import (
-	"alexcesar.tk/Gorms/DAO"
+	"huijari.ml/Gorms/DAO"
 	"crypto/sha1"
 	"encoding/base64"
 	"gopkg.in/mgo.v2/bson"

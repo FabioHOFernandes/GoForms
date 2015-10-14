@@ -1,8 +1,8 @@
 package main
 
 import (
-//	"alexcesar.tk/Gorms/Domain"
-	"alexcesar.tk/Gorms/Service"
+//	"huijari.ml/Gorms/Domain"
+	"huijari.ml/Gorms/Service"
 )
 
 func main() {
